@@ -17,4 +17,4 @@
 
 ## 联系作者
 ![Image text](https://raw.githubusercontent.com/nine199/yuemiao/main/5.png)
-<p align="center">【potato】</p>
+【potato】
