@@ -12,5 +12,5 @@
 目前无ui，只有终端版
 ![Image text](https://raw.githubusercontent.com/nine199/yuemiao/main/1.jpg)
 ![Image text](https://raw.githubusercontent.com/nine199/yuemiao/main/2.jpg)
-![Image text](https://raw.githubusercontent.com/nine199/yuemiao/main/3.jpg)
-![Image text](https://raw.githubusercontent.com/nine199/yuemiao/main/4.jpg)
+![Image text](https://raw.githubusercontent.com/nine199/yuemiao/main/3.png)
+![Image text](https://raw.githubusercontent.com/nine199/yuemiao/main/4.png)
